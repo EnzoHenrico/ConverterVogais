@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterVogais", "ConverterVogais\ConverterVogais.csproj", "{0BFD9F1B-54A2-48F5-83B3-B92AA26134C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFD9F1B-54A2-48F5-83B3-B92AA26134C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFD9F1B-54A2-48F5-83B3-B92AA26134C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFD9F1B-54A2-48F5-83B3-B92AA26134C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFD9F1B-54A2-48F5-83B3-B92AA26134C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6AC951B-7951-498F-85A4-5B9C6A9925E5}
+	EndGlobalSection
+EndGlobal
